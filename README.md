@@ -9,5 +9,5 @@ I’m currently learning Python, CAN networking and Machine Learning. Alongside 
 I believe education should be free and accessible to everyone that wants to learn. At some point, I’m looking to collaborate on an educational programming series on YouTube.
 
 Here's how you can get in touch with me: 
-- Drop me an [e-mail](mailto:keanefern@gmail.com)
+- Drop me an [e-mail](mailto:keanefern@gmail.com).
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/kfe/).
